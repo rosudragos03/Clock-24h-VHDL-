@@ -1,0 +1,12 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../project_1.srcs/sources_1/new/anode_picker.vhd" \
+"../../../../project_1.srcs/sources_1/new/clk_1hz.vhd" \
+"../../../../project_1.srcs/sources_1/new/clk_1khz.vhd" \
+"../../../../project_1.srcs/sources_1/new/clock_counter.vhd" \
+"../../../../project_1.srcs/sources_1/new/decoder.vhd" \
+"../../../../project_1.srcs/sources_1/new/mod6counter.vhd" \
+"../../../../project_1.srcs/sources_1/new/counter.vhd" \
+
+# Do not sort compile order
+nosort

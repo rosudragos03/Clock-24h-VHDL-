@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2.2 (64-bit)
+# SW Build 4126759 on Thu Feb  8 23:53:51 MST 2024
+# IP Build 4126054 on Fri Feb  9 11:39:09 MST 2024
+# SharedData Build 4115275 on Tue Jan 30 00:40:57 MST 2024
+# Start of session at: Tue May 21 14:55:06 2024
+# Process ID: 20580
+# Current directory: C:/Users/rdrah/Desktop/project_1/project_1.runs/impl_1
+# Command line: vivado.exe -log counter.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source counter.tcl -notrace
+# Log file: C:/Users/rdrah/Desktop/project_1/project_1.runs/impl_1/counter.vdi
+# Journal file: C:/Users/rdrah/Desktop/project_1/project_1.runs/impl_1\vivado.jou
+# Running On: PC-Rosu, OS: Windows, CPU Frequency: 2496 MHz, CPU Physical cores: 4, Host memory: 8419 MB
+#-----------------------------------------------------------
+source counter.tcl -notrace
